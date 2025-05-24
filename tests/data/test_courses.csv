@@ -1,0 +1,4 @@
+Course Code,Course Name,Description,Prerequisites,Co-requisites,Credit Hours,Semester Offered
+MAT111,Mathematics I,The calculus part covers functions,,,3,FALL
+CSE014,Structured Programming,Introduction to programming,,,3,FALL
+CSE015,Object Oriented Programming,OOP concepts,CSE014,,3,SPRING
